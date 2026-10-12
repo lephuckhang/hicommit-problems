@@ -5,8 +5,8 @@ int main() {
 
   scanf("%d",&n);
   if(n%2==0)
-    printf("\nCHAN");
+    printf("CHAN\n");
   else
-    printf("\nLE");
+    printf("LE\n");
   return 0;
 }
