@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int main() {
-  return 0;
+int main(void) {
+    puts("HICOMMIT_AUTO_UPGRADE_TEST");
+    return 0;
 }
