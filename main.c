@@ -6,9 +6,9 @@ int main(void) {
     scanf("%d", &n);
 
     if (n % 2 == 0) {
-        printf("CHAN\n");
+        printf("CHAN\n");//In số chẵn
     } else {
-        printf("LE\n");
+        printf("LE\n");//In số lẻ
     }
 
     return 0;
