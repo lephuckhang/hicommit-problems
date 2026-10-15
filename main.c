@@ -1,2 +1,6 @@
-#error HICOMMIT_COMPILE_TEST
-int main(void) { return 0; }
+#include <stdio.h>
+
+int main(void) {
+    puts("HICOMMIT_TEST_WRONG_OUTPUT");
+    return 0;
+}
