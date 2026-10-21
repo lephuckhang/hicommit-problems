@@ -7,11 +7,11 @@ int main(void) {
 
   if(a%2!=0)
   {
-    printf("le");
+    printf("LE");
   }
   else
   {
-    printf("chan");
+    printf("CHAN");
   }
   return 0;
 }
