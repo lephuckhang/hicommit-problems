@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-    
-    return 0;
+  int a;
+
+  scanf("%d", &n)
+  return 0;
 }
