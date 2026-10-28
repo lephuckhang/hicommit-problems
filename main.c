@@ -3,7 +3,7 @@
 int main(void) {
   int a;//Khai báo biến
 
-  scanf("%d", &a);
+  scanf("%d", &a);//Nhập giá trị
 
   if(a%2!=0)
   {
