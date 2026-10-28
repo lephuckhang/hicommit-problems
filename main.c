@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-  int a;
+  int a;//Khai báo biến
 
   scanf("%d", &a);
 
